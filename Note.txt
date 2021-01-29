@@ -1,0 +1,5 @@
+﻿Bước 1 : vào phpmyadmin tạo mới database , sau đó import file sql vào.
+Bước 2 : giải nén file zip vào folder : xampp/httdocs
+Bước 3 : vào folder vừa giải nén edit lại file dbconfig.php trong folder config
+->edit url cho phù hợp với máy bạn + tên db vừa tạo là xong.
+* Có source FE trong folder theme cho bạn nào cần.
